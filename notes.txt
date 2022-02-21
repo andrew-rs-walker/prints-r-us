@@ -1,0 +1,11 @@
+22-02-19
+- temperature identifier
+
+- observed overheating on both pekk and cf pekk materials
+-- dropped speed and temperature 
+-- speed by 10%, from 50 to 45mm/s nominal
+-- temperature by 2.5%, from 390 to 380 C
+
+
+
+ 
